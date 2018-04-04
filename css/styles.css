@@ -47,6 +47,8 @@ header {
 .navigation {
   padding-bottom: 50px;
   text-align: left;
+  font-weight: bold;
+  color: #39ADD1;
 }
 
 .navigation li {
