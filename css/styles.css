@@ -55,6 +55,7 @@ header {
   display: inline-block;
   margin-right: 20px;
   transition: all .3s;
+  cursor: pointer;
 }
 
 .navigation li .nav-logo,
